@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Festive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Festive&family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Festive&family=Pacifico&family=Zen+Tokyo+Zoo&display=swap');
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+ 
+}
+.bottom-cloud{
+  position: absolute;font-family: 'Dancing Script', cursive;
+  font-family: 'Festive', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Zen Tokyo Zoo', cursive;
+  left: 27%;
+}
+.top-cloud{
+   
+   position: absolute; 
+   left: 67%;
+
+
+}
+
+h1 {
+    margin: 0;
+    padding-top: 70px;
+    font-size: 3rem;
+
+ 
+}
+p{
+    font-size: 1.5rem;
+    
+   
+}
+.pr{
+    text-transform: capitalize;
+    text-decoration: underline;
+  
+}
+
+.top-container {
+    height: 800px;
+    position: relative;
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    color: #66BFBF;
+}
+.top-container h1{
+ font-family: 'Pacifico', cursive;
+ 
+}
+.top-container h1 p{
+     font-size: 2.5rem;
+}
+.middle-container{
+  margin: 100px 0;
+
+
+}
+.middle-container p{
+     color: #40514E;
+     font-family: 'Pacifico', cursive;
+   
+}
+
+.name{
+   
+    font-family: 'Pacifico', cursive;
+    font-weight: 200;
+   
+}
+.skillh{
+    font-family: sans-serif;
+   font-style: oblique;
+    font-size: large;
+    font-weight: 800;
+}
+
+.cirimg{
+    border-radius: 100%;
+}
+
+
+
+.profile
+{
+    padding: 10px;
+    margin: 10px;
+    line-height: 1.2rem;
+}
+
+.profile 
+{
+   
+    
+    background-image: url('https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_48137876_pink-and-white-gradient-watercolor-abstract-background-hand-drawn-watercolour-valentines-day-backdro.html&psig=AOvVaw2_1zBV0mxPv3QhCsxUWWoq&ust=1625422465059000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCICh4NfAx_ECFQAAAAAdAAAAABAT');
+}
+.profile p{
+    line-height: 2rem;
+}
+
+.im{
+    border-radius: 100%;
+}
+.gt{
+   
+}
+hr{
+    border:dotted #c1caca 6px;
+    border-bottom: none;
+    width: 4%;
+    
+
+   margin: 100px auto;
+
+
+}
+.cp{
+    border-radius: 10%;
+    width: 30%;
+   float: left;
+   margin-right: 30px;
+   padding-top: 5px;
+}
+.wd{
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto ;
+    text-align: left;
+    line-height: 2rem;
+}
+
+h3{
+    color: #66bfbf; 
+   font-size: 20px;
+   font-family: 'Montserrat',sans-serif;
+
+}
+ h2{
+     padding-bottom: 10px;
+    color: #66bfbf;
+    font-size: 40px; 
+    font-family: 'Montserrat',sans-serif;
+}
+.bottom-container{
+    padding: 30px;
+    line-height: 2rem;
+  
+ background-color: #66BFBF;
+   }
+   .bottom-container a{
+       color: #11999E;
+       text-decoration: none;
+       padding: 10px;
+       font-size: 1.5rem;
+   }
+   .bottom-container p{
+       color: #EAF6F6;
+
+   }
+  
+  .contact-me{
+    margin: 30px;
+    text-decoration: none;
+      }
+   
+            
+      .btn {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Courier New;
+        color: #ffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        text-transform: uppercase;
+        margin-top: 25px;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
